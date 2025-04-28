@@ -18,7 +18,7 @@ This project is a News Summarization and Sentiment Analysis application that ext
 ## Installation
 1. Clone the Repository
 ```bash
- git clone https://github.com/yourusername/News-Summarization-App.git 
+ git clone https://github.com/dileepbethu/News-Summarization-App.git 
 cd News-Summarization-App
 ```
 

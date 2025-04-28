@@ -50,5 +50,5 @@ streamlit run app.py
 Create a new space on Hugging Face (huggingface.co/spaces)
 Select Streamlit as the SDK
 Push the project to the created space:
-git remote add hf https://huggingface.co/spaces/your-hf-space
+git remote add hf https://huggingface.co/spaces/dileepbethu
 git push hf main
